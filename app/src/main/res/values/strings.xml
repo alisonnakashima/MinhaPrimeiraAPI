@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MinhaPrimeiraApi</string>
+    <string name="item_age">%1$s anos</string>
+    <string name="sucess_delete">Item deletado com sucesso.</string>
+    <string name="error_delete">Erro ao deletar.</string>
+    <string name="error_loading">Erro ao carregar informações.</string>
+    <string name="error_validate_form">Por favor, preencha o campo: %1$s.</string>
+    <string name="success_create">Item %1$s criado com sucesso.</string>
+    <string name="error_create">Erro ao criar o item.</string>
+</resources>
